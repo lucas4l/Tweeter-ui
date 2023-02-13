@@ -12,7 +12,7 @@ export function Tweet(props: TweetProps){
   
   return(
     <Link to="/status" className="tweet">
-      <img src="https://github.com/lucas4.png" alt="Lucas Barbosa" />
+      <img src="https://github.com/lucas4l.png" alt="Lucas Barbosa" />
       <div className="tweet-content">
         <div className="tweet-content-header">
           <strong>Lucas Barbosa</strong>
